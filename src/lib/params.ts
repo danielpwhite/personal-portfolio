@@ -7,7 +7,7 @@ import type {
 	ResumePageParams
 } from './utils';
 
-export const PortfolioTitle = 'Slick template with Svelte';
+export const PortfolioTitle = 'Daniel P White Portfolio';
 
 export const NavBar: NavBarParams = {
 	home: 'Home',
@@ -19,16 +19,16 @@ export const NavBar: NavBarParams = {
 
 export const Home: HomeParams = {
 	title: 'Home Page',
-	name: 'Name',
-	lastName: 'LASTNAME',
+	name: 'Daniel',
+	lastName: 'WHITE',
 	description:
-		'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti, rerum. Debitis accusantium deleniti enim iste dignissimos? Similique, exercitationem! Odit vero, numquam quae ratione maxime sunt reiciendis laudantium quaerat iure ipsum!',
+		'Results-driven software developer with a Bachelors of Science in Computer Science from Florida State University and experience in developing software solutions using Python, C++, Unreal Engine, Flask, and Docker. Skilled in DevOps, web and desktop application development, CI/CD pipelines, and Agile methodologies. Strong background in managing cross-platform builds and automated system testing in complex environments. Adept at learning new technologies and frameworks. Active Secret Clearance granted January 2022. Former aircraft engine specialist in the United States Air Force with expertise in problem solving and automation.',
 	links: {
-		github: 'https://github.com/',
-		linkedin: 'https://www.linkedin.com/',
+		github: 'https://github.com/danielpwhite',
+		linkedin: 'https://www.linkedin.com/in/daniel-white-205805134/',
 		twitter: 'https://twitter.com/',
-		stackoverflow: 'https://stackoverflow.com/',
-		email: 'riadh-adrani@hotmail.fr'
+		stackoverflow: 'https://stackoverflow.com/users/21308307/danielpwhite',
+		email: 'daniel.p.white@hotmail.com'
 	},
 	skills: [Technologies.JavaScript, Technologies.HTML, Technologies.CSS]
 };
