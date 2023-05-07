@@ -40,14 +40,14 @@ export const PersonalProjects: PersonalProjectsParams = {
 			color: '#5e95e3',
 			description:
 				'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore non dolores voluptatibus vitae praesentium aperiam, iure laboriosam repellendus sunt explicabo pariatur totam enim, nihil animi quisquam. Sit vero quod laborum!',
-			links: [{ to: 'https://github.com/RiadhAdrani/slick-portfolio-svelte', label: 'GitHub' }],
+			links: [{ to: 'https://github.com/danielpwhite/Web-App-Deployed', label: 'GitHub' }],
 			logo: Assets.Unknown,
-			name: 'Slick Portfolio',
+			name: 'Web-App-Deployed',
 			period: {
 				from: new Date()
 			},
-			technologies: [Technologies.Angular, Technologies.TypeScript, Technologies.Tailwind],
-			type: 'Website Template'
+			technologies: [Technologies.Python, Technologies.JavaScript, Technologies.Redis],
+			type: 'Web Application and Deployment'
 		},
 		{
 			color: '#ff3e00',
@@ -70,13 +70,13 @@ export const ProfessionalCareerParams: CareerParams = {
 	items: [
 		{
 			company: { logo: Assets.Unknown, name: 'Home' },
-			description: 'Creating awesome applications for customers.',
-			employmentType: EmploymentType.Freelance,
+			description: 'Software Development and DevOps for a flight combat modeling software.',
+			employmentType: EmploymentType.FullTime,
 			industry: 'Software Development',
-			location: 'Home',
+			location: 'Eglin AFB, FL',
 			period: { from: new Date() },
-			skills: [Technologies.JavaScript, Technologies.HTML, Technologies.CSS],
-			title: 'Freelancer'
+			skills: [Technologies.Python, Technologies.HTML, Technologies.CSS],
+			title: 'Software Developer I'
 		}
 	]
 };
@@ -114,5 +114,5 @@ export const MySkillsParams: SkillsParams = {
 
 export const ResumeParams: ResumePageParams = {
 	title: 'Resumé',
-	cv: ''
+	cv: 'https://github.com/danielpwhite/personal-portfolio/blob/master/static/DanielPWhiteResumeCurrent.pdf'
 };
