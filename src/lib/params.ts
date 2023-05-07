@@ -22,7 +22,7 @@ export const Home: HomeParams = {
 	name: 'Daniel',
 	lastName: 'WHITE',
 	description:
-		'Results-driven software developer with an expertise in problem solving and automation. Experience developing software solutions using Python, C++, Unreal Engine, Flask, and Docker. Skilled in DevOps, web and desktop application development, CI/CD pipelines, and Agile methodologies. Strong background in managing cross-platform builds and automated system testing in complex environments. Adept at learning new technologies and frameworks (currently learning Kubernetes, SvelteKit, and FastAPI). Bachelors of Science in Computer Science from Florida State University. Active Secret Clearance granted January 2022. Former aircraft engine specialist in the United States Air Force.',
+		'Results-driven software developer with an expertise in problem solving and automation. Experience developing software solutions using Python, C++, Unreal Engine, Flask, and Docker. Skilled in DevOps, web and desktop application development, CI/CD pipelines, and Agile methodologies. Strong background in managing cross-platform builds and automated system testing in complex environments. Adept at learning new technologies and frameworks (currently learning Kubernetes and SvelteKit). Bachelors of Science in Computer Science from Florida State University. Active Secret Clearance granted January 2022. Former aircraft engine specialist in the United States Air Force.',
 	links: {
 		github: 'https://github.com/danielpwhite',
 		linkedin: 'https://www.linkedin.com/in/daniel-white-205805134/',
