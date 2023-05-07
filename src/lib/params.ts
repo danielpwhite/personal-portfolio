@@ -114,5 +114,5 @@ export const MySkillsParams: SkillsParams = {
 
 export const ResumeParams: ResumePageParams = {
 	title: 'Resumé',
-	cv: 'https://github.com/danielpwhite/personal-portfolio/blob/master/static/DanielPWhiteResumeCurrent.pdf'
+	cv: 'https://github.com/danielpwhite/personal-portfolio/raw/master/static/DanielPWhiteResumeCurrent.pdf'
 };
