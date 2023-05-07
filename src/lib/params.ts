@@ -30,7 +30,7 @@ export const Home: HomeParams = {
 		stackoverflow: 'https://stackoverflow.com/users/21308307/danielpwhite',
 		email: 'daniel.p.white@hotmail.com'
 	},
-	skills: [Technologies.JavaScript, Technologies.HTML, Technologies.CSS]
+	skills: [Technologies.Python, Technologies.JavaScript, Technologies.TypeScript, Technologies.HTML, Technologies.CSS, Technologies.Svelte, Technologies.PostgreSQL, Technologies.Redis]
 };
 
 export const PersonalProjects: PersonalProjectsParams = {
